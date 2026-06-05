@@ -27,6 +27,10 @@ venv/
 data/
 datasets/
 
+# Training output
+lora-llama-sst2/
+lora-llama-sst2-retry/
+
 # OS
 .DS_Store
 Thumbs.db
